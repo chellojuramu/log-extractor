@@ -5,6 +5,8 @@ __pycache__/
 
 # input files
 batch.log
+#output files
+extracted_exceptions.txt
 
 # C extensions
 *.so
